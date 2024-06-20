@@ -1,7 +1,7 @@
 # Each workflow must have a name
 # Here the workflow will be named as Sample Workflow
 name: Sample workflow
-on
+on:
 # Each workflow is triggered on some events
 # will be triggered on push
 on: push 
